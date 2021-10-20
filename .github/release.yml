@@ -1,0 +1,11 @@
+changelog:
+  categories:
+    - title: ユーザー影響有🙆‍♂️
+      labels:
+        - user:impact
+    - title: ユーザー影響無🙅‍♂️
+      labels:
+        - user:no-impact
+    - title: その他
+      labels:
+        - "*"
